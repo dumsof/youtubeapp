@@ -2,9 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 
-@Injectable({
-  providedIn: 'root'
-})
+@Injectable()
 export class YoutubeService {
   youtubeUrl = 'https://www.googleapis.com/youtube/v3/playlistItems';
   apiKey = 'AIzaSyDx-xX0OId8BPqCLsZfcqsew4vgwoUAlhs';
