@@ -11,5 +11,8 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
   }
-/* Key Api Youtube: AIzaSyDx-xX0OId8BPqCLsZfcqsew4vgwoUAlhs */
+  /* "nextPageToken": "CAoQAA" */
+  /* UUuaPTYj15JSkETGnEseaFFg */
+  /* aplicacion api youtube: https://developers.google.com/youtube/v3/docs/ */
+  /* Key Api Youtube: AIzaSyDx-xX0OId8BPqCLsZfcqsew4vgwoUAlhs */
 }
